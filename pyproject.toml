@@ -5,6 +5,7 @@ description = "Data Science PEL309 Paper Code"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=7.2.0",
     "kagglehub>=1.0.0",
     "matplotlib>=3.10.9",
     "numpy>=2.4.4",
